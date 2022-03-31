@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class LongestPalindromeSubSeq {
     public int calculate1(char []str){
         int T[][] = new int[str.length][str.length];
